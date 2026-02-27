@@ -20,7 +20,6 @@ Uygulama, Kullanıcıyı tanımlamak için kullanılabilecek bilgileri toplayabi
 *   [Google Play Hizmetleri](https://policies.google.com/privacy)
 *   [Firebase Authentication](https://firebase.google.com/support/privacy) (hesap güvenliği için kullanılmaktadır)
 *   [Cloud Firestore & Firebase Storage](https://firebase.google.com/support/privacy) (veri ve içerik depolamak için kullanılmaktadır)
-*   [Adapty](https://adapty.io/privacy) (uygulama içi aboneliklerin ve satın alımların yönetimi ve doğrulanması için kullanılmaktadır)
 
 ## 3. Uygulama İçi Satın Alımlar ve Abonelikler
 
