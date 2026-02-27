@@ -56,4 +56,4 @@ Kullanıcı, Uygulamanın cihazında yüklü olup olmadığına bakılmaksızın
 
 ## 9. İletişim Bilgileri
 
-Bu Gizlilik Politikası veya veri işleme uygulamaları ile ilgili herhangi bir soru veya endişe olması durumunda, Kullanıcı **[Destek E-posta Adresinizi Buraya Ekleyin]** adresinden Şirket ile iletişime geçebilir.
+Bu Gizlilik Politikası veya veri işleme uygulamaları ile ilgili herhangi bir soru veya endişe olması durumunda, Kullanıcı **atacbiology@gmail.com** adresinden Şirket ile iletişime geçebilir.
