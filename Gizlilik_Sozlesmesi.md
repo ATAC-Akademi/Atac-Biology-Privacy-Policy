@@ -2,7 +2,7 @@
 
 **Yürürlük Tarihi:** 27 Şubat 2026
 
-Bu Gizlilik Politikası, Ataç Biology (bundan böyle "Şirket" olarak anılacaktır) tarafından Ataç Biology mobil uygulamasının (bundan böyle "Uygulama" olarak anılacaktır) kullanıcılarından (bundan böyle "Kullanıcı" veya "Kullanıcılar" olarak anılacaktır) toplanan bilgilerin nasıl alındığı, kullanıldığı, muhafaza edildiği ve ifşa edildiği hususlarını düzenlemektedir.
+Bu Gizlilik Politikası, Ataç Biology (bundan böyle "Şirket" olarak anılacaktır) tarafından Ataç Biology mobil uygulamasının (bundan böyle "Uygulama" olarak anılacaktır) kullanıcılarından (bundan böyle "Kullanıcı" veya "Kullanıcılar" olarak anılacaktır) toplanan bilgilerin nasıl alındığı, kullanıldığı ve muhafaza edildiği hususlarını düzenlemektedir.
 
 ## 1. Bilgi Toplama
 
@@ -23,7 +23,7 @@ Uygulama, Kullanıcıyı tanımlamak için kullanılabilecek bilgileri toplayabi
 
 ## 3. Uygulama İçi Satın Alımlar ve Abonelikler
 
-Uygulama, uygulama içi satın alımlar ve abonelikler sunmaktadır. Tüm ödeme işlemleri Google Play tarafından güvenli bir şekilde gerçekleştirilmektedir. Şirket, Kullanıcının kredi kartı veya finansal bilgilerini toplamaz, işlemez veya saklamaz. Adapty gibi üçüncü taraf hizmetler, yalnızca abonelik durumunu doğrulamak ve premium eğitim içeriğine erişim izni vermek amacıyla kullanılmaktadır.
+Uygulama, uygulama içi satın alımlar ve abonelikler sunmaktadır. Tüm ödeme işlemleri Google Play tarafından güvenli bir şekilde gerçekleştirilmektedir. Şirket, Kullanıcının kredi kartı veya finansal bilgilerini toplamaz, işlemez veya saklamaz. Abonelik durumunu doğrulamak ve premium eğitim içeriğine erişim izni vermek amacıyla güvenli protokoller kullanılmaktadır.
 
 ## 4. Bilgilerin Kullanımı
 
@@ -38,7 +38,7 @@ Uygulama, uygulama içi satın alımlar ve abonelikler sunmaktadır. Tüm ödeme
 Kullanıcı, Uygulamanın cihazında yüklü olup olmadığına bakılmaksızın, hesabının ve ilgili kişisel verilerinin silinmesini iptal etme veya talep etme hakkını her zaman saklı tutar.
 
 *   **Uygulama İçi Silme:** Kullanıcı, Uygulama içindeki ayarlar menüsüne erişerek ve "Hesabı Sil" (Delete Account) seçeneğini seçerek hesabının tamamen silinmesi işlemini başlatabilir.
-*   **Web Üzerinden Silme Talebi:** Kullanıcının Uygulamaya artık erişiminin olmaması durumunda, doğrudan **[Destek E-posta Adresinizi Buraya Ekleyin]** adresinden Şirket ile iletişime geçilerek veya **[Varsa Web Siteniz/Form Linkini Buraya Ekleyin]** adresindeki veri silme portalı ziyaret edilerek hesap ve veri silme talebinde bulunulabilir.
+*   **Web Üzerinden Silme Talebi:** Kullanıcının Uygulamaya artık erişiminin olmaması durumunda, doğrudan **atacbiology@gmail.com** adresinden Şirket ile iletişime geçilerek veya **[Varsa Web Siteniz/Form Linkini Buraya Ekleyin]** adresindeki veri silme portalı ziyaret edilerek hesap ve veri silme talebinde bulunulabilir.
 *   **Veri Kaldırma Protokolü:** Hesap silme işleminin başlatılması üzerine, Kullanıcının kişisel bilgileri, kimlik bilgileri ve yüklenen medya dosyaları birincil sunucu altyapısından kalıcı olarak silinecektir. Belirli verilerin güvenli yedekleme arşivlerinde veya geçerli yasal düzenlemelerin gerektirdiği şekilde geçici olarak saklanabileceği unutulmamalıdır.
 
 ## 6. Çocukların Gizliliği
