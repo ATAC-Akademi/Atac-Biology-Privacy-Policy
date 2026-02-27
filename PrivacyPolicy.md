@@ -20,11 +20,10 @@ The Application utilizes third-party services that may collect information used 
 *   [Google Play Services](https://policies.google.com/privacy)
 *   [Firebase Authentication](https://firebase.google.com/support/privacy) (utilized for account security)
 *   [Cloud Firestore & Firebase Storage](https://firebase.google.com/support/privacy) (utilized for data and content storage)
-*   [Adapty](https://adapty.io/privacy) (utilized for the management and verification of in-app subscriptions and purchases)
 
 ## 3. In-App Purchases and Subscriptions
 
-The Application offers in-app purchases and subscriptions. All payment processing is securely executed by Google Play. The Company does not collect, process, or store the User's credit card or financial details. Third-party services, such as Adapty, are utilized strictly to verify subscription status and grant access to premium educational content.
+The Application offers in-app purchases and subscriptions. All payment processing is securely executed by Google Play. The Company does not collect, process, or store the User's credit card or financial details. The Company verifies subscription status and grants access to premium educational content utilizing secure protocols.
 
 ## 4. Utilization of Information
 
@@ -39,7 +38,7 @@ The Company utilizes the collected data for the following purposes:
 The User retains the right to request the deletion of their account and associated personal data at any time, irrespective of whether the Application remains installed on their device.
 
 *   **In-App Deletion:** The User can initiate the complete deletion of their account by accessing the settings menu within the Application and selecting the "Delete Account" option.
-*   **Web Deletion Request:** In the event the User no longer has access to the Application, a request for account and data deletion can be submitted by contacting the Company directly at **[Insert Your Support Email Here]** or by visiting the data deletion portal at **[Insert Your Website/Form Link Here, if applicable]**.
+*   **Web Deletion Request:** In the event the User no longer has access to the Application, a request for account and data deletion can be submitted by contacting the Company directly at **atacbiology@gmail.com** or by visiting the data deletion portal at **https://atacakademi.com/**.
 *   **Data Removal Protocol:** Upon the initiation of account deletion, the User's personal information, credentials, and uploaded media will be permanently expunged from primary server infrastructure. Please note that certain data may be retained temporarily in secure backup archives or as mandated by applicable regulatory requirements.
 
 ## 6. Children's Privacy
@@ -56,4 +55,4 @@ The Company reserves the right to update or modify this Privacy Policy at any ti
 
 ## 9. Contact Information
 
-For any inquiries or concerns regarding this Privacy Policy or data handling practices, the User may contact the Company at: **[Insert Your Support Email Here]**
+For any inquiries or concerns regarding this Privacy Policy or data handling practices, the User may contact the Company at: **atacbiology@gmail.com**
